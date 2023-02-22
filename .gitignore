@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+/.idea/misc.xml
+/.idea/compiler.xml
+/.idea/gradle.xml
+/.idea/shelf/Uncommitted_changes_before_Update_at_2023_2_22_20_02__Changes_.xml
+/.idea/vcs.xml
